@@ -1,4 +1,4 @@
 # Aiub-demo
 This is my first git repository
 <br>
-Author-Marjan Sabbir
+Author- Marjan (AIUB at Kuratoli)
